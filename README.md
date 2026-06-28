@@ -1,0 +1,1 @@
+Scaffold project. Fill controllers with CRUD/login logic.
