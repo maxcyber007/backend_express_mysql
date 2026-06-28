@@ -3,7 +3,7 @@ version: "3.8"
 services:
   backend:
     build: .
-    container_name: backend_nextjs_mysql
+    container_name: backend_express_mysql
     restart: unless-stopped
     ports:
       - "3333:3000"
